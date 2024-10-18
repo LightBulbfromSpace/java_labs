@@ -14,6 +14,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        // Для лр 2 написаны юнит-тесты в AppTest.java
         System.out.println("Write number of task:");
     
         int n = ReadUtils.readInt();
